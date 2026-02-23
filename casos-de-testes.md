@@ -108,6 +108,7 @@ Mensagem de confirmação da compra exibida
 
 ## CT09 - Validar mensagem de sucesso
 
+
 **Pré-condição:** Finalizar compra  
 **Passos:**
 1. Conferir mensagem exibida após finalizar compra  
