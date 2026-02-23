@@ -14,4 +14,4 @@ Validar funcionalidades básicas do site SauceDemo: login, carrinho e checkout.
 
 ### Ambiente
 - Navegador: Chrome
-- Sistemas: Windows / Mobile (emulador)
+- Sistema: Windows 
