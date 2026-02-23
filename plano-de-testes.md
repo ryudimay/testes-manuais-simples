@@ -11,7 +11,6 @@ Validar funcionalidades básicas do site SauceDemo: login, carrinho e checkout.
 ### Tipo de teste
 - Funcional
 - Regressivo
-- Responsivo (desktop e mobile)
 
 ### Ambiente
 - Navegador: Chrome
